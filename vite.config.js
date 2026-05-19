@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [react()],
   // If deploying to GitHub Pages under a repo subfolder, set base:
   // base: '/youra/',
-  base: '/',
+  base: '/youra/',
 })
